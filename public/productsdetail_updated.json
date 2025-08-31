@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 1,
+    "name": "Women Hoodie 1",
+    "category": "women",
+    "type": "hoodie",
+    "price": 153.74,
+    "discount": "14%",
+    "finalPrice": 132.22,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 1 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 2,
+    "name": "Women Tshirt 2",
+    "category": "women",
+    "type": "tshirt",
+    "price": 134.76,
+    "discount": "42%",
+    "finalPrice": 78.16,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 2 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 3,
+    "name": "Men Dress 3",
+    "category": "men",
+    "type": "dress",
+    "price": 202.88,
+    "discount": "19%",
+    "finalPrice": 164.33,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 3 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 4,
+    "name": "Women Hoodie 4",
+    "category": "women",
+    "type": "hoodie",
+    "price": 79.46,
+    "discount": "22%",
+    "finalPrice": 61.98,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 4 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 5,
+    "name": "Women Pants 5",
+    "category": "women",
+    "type": "pants",
+    "price": 709.22,
+    "discount": "43%",
+    "finalPrice": 404.26,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 5 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 6,
+    "name": "Women Shirt 6",
+    "category": "women",
+    "type": "shirt",
+    "price": 223.26,
+    "discount": "11%",
+    "finalPrice": 198.7,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 6 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 7,
+    "name": "Men Dress 7",
+    "category": "men",
+    "type": "dress",
+    "price": 552.85,
+    "discount": "41%",
+    "finalPrice": 326.18,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 7 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 8,
+    "name": "Men Tshirt 8",
+    "category": "men",
+    "type": "tshirt",
+    "price": 643.41,
+    "discount": "12%",
+    "finalPrice": 566.2,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 8 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 9,
+    "name": "Women Pants 9",
+    "category": "women",
+    "type": "pants",
+    "price": 337.89,
+    "discount": "42%",
+    "finalPrice": 195.98,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 9 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 10,
+    "name": "Men Pants 10",
+    "category": "men",
+    "type": "pants",
+    "price": 379.31,
+    "discount": "20%",
+    "finalPrice": 303.45,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 10 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 11,
+    "name": "Men Shirt 11",
+    "category": "men",
+    "type": "shirt",
+    "price": 539.11,
+    "discount": "31%",
+    "finalPrice": 371.99,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 11 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 12,
+    "name": "Women Pants 12",
+    "category": "women",
+    "type": "pants",
+    "price": 144.79,
+    "discount": "14%",
+    "finalPrice": 124.52,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 12 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 13,
+    "name": "Men Tshirt 13",
+    "category": "men",
+    "type": "tshirt",
+    "price": 196.67,
+    "discount": "17%",
+    "finalPrice": 163.24,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 13 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 14,
+    "name": "Women Dress 14",
+    "category": "women",
+    "type": "dress",
+    "price": 216.27,
+    "discount": "45%",
+    "finalPrice": 118.95,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 14 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 15,
+    "name": "Women Dress 15",
+    "category": "women",
+    "type": "dress",
+    "price": 673.96,
+    "discount": "43%",
+    "finalPrice": 384.16,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 15 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 16,
+    "name": "Women Pants 16",
+    "category": "women",
+    "type": "pants",
+    "price": 207.49,
+    "discount": "24%",
+    "finalPrice": 157.69,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 16 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 17,
+    "name": "Men Pants 17",
+    "category": "men",
+    "type": "pants",
+    "price": 526.59,
+    "discount": "35%",
+    "finalPrice": 342.28,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 17 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 18,
+    "name": "Women Hoodie 18",
+    "category": "women",
+    "type": "hoodie",
+    "price": 180.91,
+    "discount": "17%",
+    "finalPrice": 150.16,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 18 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 19,
+    "name": "Men Shirt 19",
+    "category": "men",
+    "type": "shirt",
+    "price": 225.01,
+    "discount": "16%",
+    "finalPrice": 189.01,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 19 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 20,
+    "name": "Men Hoodie 20",
+    "category": "men",
+    "type": "hoodie",
+    "price": 241.73,
+    "discount": "48%",
+    "finalPrice": 125.7,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 20 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 21,
+    "name": "Women Pants 21",
+    "category": "women",
+    "type": "pants",
+    "price": 219.36,
+    "discount": "23%",
+    "finalPrice": 168.91,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 21 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 22,
+    "name": "Women Tshirt 22",
+    "category": "women",
+    "type": "tshirt",
+    "price": 236.73,
+    "discount": "20%",
+    "finalPrice": 189.38,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 22 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 23,
+    "name": "Men Hoodie 23",
+    "category": "men",
+    "type": "hoodie",
+    "price": 73.71,
+    "discount": "40%",
+    "finalPrice": 44.23,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 23 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 24,
+    "name": "Women Pants 24",
+    "category": "women",
+    "type": "pants",
+    "price": 121.86,
+    "discount": "17%",
+    "finalPrice": 101.14,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 24 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 25,
+    "name": "Women Dress 25",
+    "category": "women",
+    "type": "dress",
+    "price": 86.67,
+    "discount": "12%",
+    "finalPrice": 76.27,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 25 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 26,
+    "name": "Men Hoodie 26",
+    "category": "men",
+    "type": "hoodie",
+    "price": 390.66,
+    "discount": "36%",
+    "finalPrice": 250.02,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 26 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 27,
+    "name": "Men Hoodie 27",
+    "category": "men",
+    "type": "hoodie",
+    "price": 83.71,
+    "discount": "26%",
+    "finalPrice": 61.95,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 27 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 28,
+    "name": "Men Tshirt 28",
+    "category": "men",
+    "type": "tshirt",
+    "price": 787.14,
+    "discount": "16%",
+    "finalPrice": 661.2,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 28 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 29,
+    "name": "Men Tshirt 29",
+    "category": "men",
+    "type": "tshirt",
+    "price": 452.9,
+    "discount": "29%",
+    "finalPrice": 321.56,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 29 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 30,
+    "name": "Men Shirt 30",
+    "category": "men",
+    "type": "shirt",
+    "price": 134.84,
+    "discount": "50%",
+    "finalPrice": 67.42,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 30 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 31,
+    "name": "Women Pants 31",
+    "category": "women",
+    "type": "pants",
+    "price": 832.45,
+    "discount": "16%",
+    "finalPrice": 699.26,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 31 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 32,
+    "name": "Women Dress 32",
+    "category": "women",
+    "type": "dress",
+    "price": 697.09,
+    "discount": "32%",
+    "finalPrice": 474.02,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 32 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 33,
+    "name": "Women Tshirt 33",
+    "category": "women",
+    "type": "tshirt",
+    "price": 152.76,
+    "discount": "29%",
+    "finalPrice": 108.46,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 33 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 34,
+    "name": "Men Shirt 34",
+    "category": "men",
+    "type": "shirt",
+    "price": 194.69,
+    "discount": "45%",
+    "finalPrice": 107.08,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 34 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 35,
+    "name": "Women Dress 35",
+    "category": "women",
+    "type": "dress",
+    "price": 767.28,
+    "discount": "20%",
+    "finalPrice": 613.82,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 35 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 36,
+    "name": "Men Pants 36",
+    "category": "men",
+    "type": "pants",
+    "price": 488.79,
+    "discount": "46%",
+    "finalPrice": 263.95,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 36 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 37,
+    "name": "Men Pants 37",
+    "category": "men",
+    "type": "pants",
+    "price": 204.3,
+    "discount": "30%",
+    "finalPrice": 143.01,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 37 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 38,
+    "name": "Women Tshirt 38",
+    "category": "women",
+    "type": "tshirt",
+    "price": 221.15,
+    "discount": "28%",
+    "finalPrice": 159.23,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 38 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 39,
+    "name": "Men Hoodie 39",
+    "category": "men",
+    "type": "hoodie",
+    "price": 197.45,
+    "discount": "46%",
+    "finalPrice": 106.62,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 39 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 40,
+    "name": "Men Shirt 40",
+    "category": "men",
+    "type": "shirt",
+    "price": 176.69,
+    "discount": "15%",
+    "finalPrice": 150.19,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 40 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 41,
+    "name": "Men Shirt 41",
+    "category": "men",
+    "type": "shirt",
+    "price": 143.26,
+    "discount": "13%",
+    "finalPrice": 124.64,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 41 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 42,
+    "name": "Men Hoodie 42",
+    "category": "men",
+    "type": "hoodie",
+    "price": 169.5,
+    "discount": "47%",
+    "finalPrice": 89.84,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 42 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 43,
+    "name": "Men Shirt 43",
+    "category": "men",
+    "type": "shirt",
+    "price": 176.85,
+    "discount": "39%",
+    "finalPrice": 107.88,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 43 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 44,
+    "name": "Men Hoodie 44",
+    "category": "men",
+    "type": "hoodie",
+    "price": 187.03,
+    "discount": "27%",
+    "finalPrice": 136.53,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 44 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 45,
+    "name": "Women Shirt 45",
+    "category": "women",
+    "type": "shirt",
+    "price": 390.51,
+    "discount": "47%",
+    "finalPrice": 206.97,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 45 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 46,
+    "name": "Men Pants 46",
+    "category": "men",
+    "type": "pants",
+    "price": 70.59,
+    "discount": "47%",
+    "finalPrice": 37.41,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 46 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 47,
+    "name": "Women Tshirt 47",
+    "category": "women",
+    "type": "tshirt",
+    "price": 346.0,
+    "discount": "35%",
+    "finalPrice": 224.9,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 47 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 48,
+    "name": "Women Dress 48",
+    "category": "women",
+    "type": "dress",
+    "price": 490.97,
+    "discount": "13%",
+    "finalPrice": 427.14,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 48 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 49,
+    "name": "Men Tshirt 49",
+    "category": "men",
+    "type": "tshirt",
+    "price": 835.14,
+    "discount": "31%",
+    "finalPrice": 576.25,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 49 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 50,
+    "name": "Women Dress 50",
+    "category": "women",
+    "type": "dress",
+    "price": 211.1,
+    "discount": "44%",
+    "finalPrice": 118.22,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 50 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 51,
+    "name": "Men Dress 51",
+    "category": "men",
+    "type": "dress",
+    "price": 243.3,
+    "discount": "44%",
+    "finalPrice": 136.25,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 51 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 52,
+    "name": "Men Tshirt 52",
+    "category": "men",
+    "type": "tshirt",
+    "price": 461.19,
+    "discount": "39%",
+    "finalPrice": 281.33,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 52 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 53,
+    "name": "Men Shirt 53",
+    "category": "men",
+    "type": "shirt",
+    "price": 153.95,
+    "discount": "41%",
+    "finalPrice": 90.83,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 53 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 54,
+    "name": "Women Pants 54",
+    "category": "women",
+    "type": "pants",
+    "price": 716.94,
+    "discount": "43%",
+    "finalPrice": 408.66,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 54 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 55,
+    "name": "Women Shirt 55",
+    "category": "women",
+    "type": "shirt",
+    "price": 154.05,
+    "discount": "37%",
+    "finalPrice": 97.05,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 55 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 56,
+    "name": "Men Pants 56",
+    "category": "men",
+    "type": "pants",
+    "price": 484.26,
+    "discount": "36%",
+    "finalPrice": 309.93,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 56 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 57,
+    "name": "Men Dress 57",
+    "category": "men",
+    "type": "dress",
+    "price": 359.78,
+    "discount": "11%",
+    "finalPrice": 320.2,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 57 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 58,
+    "name": "Men Pants 58",
+    "category": "men",
+    "type": "pants",
+    "price": 762.19,
+    "discount": "13%",
+    "finalPrice": 663.11,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 58 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 59,
+    "name": "Men Dress 59",
+    "category": "men",
+    "type": "dress",
+    "price": 227.16,
+    "discount": "47%",
+    "finalPrice": 120.39,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 59 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 60,
+    "name": "Women Hoodie 60",
+    "category": "women",
+    "type": "hoodie",
+    "price": 377.2,
+    "discount": "30%",
+    "finalPrice": 264.04,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 60 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 61,
+    "name": "Men Tshirt 61",
+    "category": "men",
+    "type": "tshirt",
+    "price": 114.43,
+    "discount": "40%",
+    "finalPrice": 68.66,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 61 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 62,
+    "name": "Men Pants 62",
+    "category": "men",
+    "type": "pants",
+    "price": 852.61,
+    "discount": "31%",
+    "finalPrice": 588.3,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 62 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 63,
+    "name": "Women Shirt 63",
+    "category": "women",
+    "type": "shirt",
+    "price": 90.79,
+    "discount": "42%",
+    "finalPrice": 52.66,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 63 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 64,
+    "name": "Women Pants 64",
+    "category": "women",
+    "type": "pants",
+    "price": 177.14,
+    "discount": "35%",
+    "finalPrice": 115.14,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 64 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 65,
+    "name": "Women Hoodie 65",
+    "category": "women",
+    "type": "hoodie",
+    "price": 678.83,
+    "discount": "27%",
+    "finalPrice": 495.55,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 65 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 66,
+    "name": "Women Dress 66",
+    "category": "women",
+    "type": "dress",
+    "price": 248.99,
+    "discount": "16%",
+    "finalPrice": 209.15,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 66 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 67,
+    "name": "Women Pants 67",
+    "category": "women",
+    "type": "pants",
+    "price": 248.85,
+    "discount": "12%",
+    "finalPrice": 218.99,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 67 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 68,
+    "name": "Men Pants 68",
+    "category": "men",
+    "type": "pants",
+    "price": 177.09,
+    "discount": "17%",
+    "finalPrice": 146.98,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 68 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 69,
+    "name": "Women Shirt 69",
+    "category": "women",
+    "type": "shirt",
+    "price": 386.14,
+    "discount": "49%",
+    "finalPrice": 196.93,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 69 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 70,
+    "name": "Women Shirt 70",
+    "category": "women",
+    "type": "shirt",
+    "price": 892.67,
+    "discount": "17%",
+    "finalPrice": 740.92,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 70 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 71,
+    "name": "Men Shirt 71",
+    "category": "men",
+    "type": "shirt",
+    "price": 170.12,
+    "discount": "27%",
+    "finalPrice": 124.19,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 71 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 72,
+    "name": "Women Dress 72",
+    "category": "women",
+    "type": "dress",
+    "price": 782.02,
+    "discount": "23%",
+    "finalPrice": 602.16,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 72 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 73,
+    "name": "Men Tshirt 73",
+    "category": "men",
+    "type": "tshirt",
+    "price": 631.76,
+    "discount": "43%",
+    "finalPrice": 360.1,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 73 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 74,
+    "name": "Women Tshirt 74",
+    "category": "women",
+    "type": "tshirt",
+    "price": 343.9,
+    "discount": "30%",
+    "finalPrice": 240.73,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 74 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 75,
+    "name": "Men Tshirt 75",
+    "category": "men",
+    "type": "tshirt",
+    "price": 65.4,
+    "discount": "47%",
+    "finalPrice": 34.66,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 75 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 76,
+    "name": "Women Dress 76",
+    "category": "women",
+    "type": "dress",
+    "price": 643.3,
+    "discount": "46%",
+    "finalPrice": 347.38,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 76 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 77,
+    "name": "Women Shirt 77",
+    "category": "women",
+    "type": "shirt",
+    "price": 193.06,
+    "discount": "37%",
+    "finalPrice": 121.63,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 77 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 78,
+    "name": "Men Tshirt 78",
+    "category": "men",
+    "type": "tshirt",
+    "price": 212.51,
+    "discount": "48%",
+    "finalPrice": 110.51,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 78 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 79,
+    "name": "Women Shirt 79",
+    "category": "women",
+    "type": "shirt",
+    "price": 225.56,
+    "discount": "40%",
+    "finalPrice": 135.34,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 79 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 80,
+    "name": "Men Shirt 80",
+    "category": "men",
+    "type": "shirt",
+    "price": 112.39,
+    "discount": "46%",
+    "finalPrice": 60.69,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 80 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 81,
+    "name": "Men Dress 81",
+    "category": "men",
+    "type": "dress",
+    "price": 105.11,
+    "discount": "14%",
+    "finalPrice": 90.39,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 81 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 82,
+    "name": "Men Tshirt 82",
+    "category": "men",
+    "type": "tshirt",
+    "price": 84.28,
+    "discount": "17%",
+    "finalPrice": 69.95,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 82 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 83,
+    "name": "Women Tshirt 83",
+    "category": "women",
+    "type": "tshirt",
+    "price": 513.74,
+    "discount": "33%",
+    "finalPrice": 344.21,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 83 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 84,
+    "name": "Men Pants 84",
+    "category": "men",
+    "type": "pants",
+    "price": 826.4,
+    "discount": "34%",
+    "finalPrice": 545.42,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 84 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 85,
+    "name": "Women Tshirt 85",
+    "category": "women",
+    "type": "tshirt",
+    "price": 778.84,
+    "discount": "47%",
+    "finalPrice": 412.79,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 85 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 86,
+    "name": "Women Dress 86",
+    "category": "women",
+    "type": "dress",
+    "price": 78.26,
+    "discount": "18%",
+    "finalPrice": 64.17,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 86 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 87,
+    "name": "Women Pants 87",
+    "category": "women",
+    "type": "pants",
+    "price": 362.04,
+    "discount": "12%",
+    "finalPrice": 318.6,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 87 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 88,
+    "name": "Women Hoodie 88",
+    "category": "women",
+    "type": "hoodie",
+    "price": 715.69,
+    "discount": "28%",
+    "finalPrice": 515.3,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 88 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 89,
+    "name": "Men Shirt 89",
+    "category": "men",
+    "type": "shirt",
+    "price": 804.79,
+    "discount": "26%",
+    "finalPrice": 595.54,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 89 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 90,
+    "name": "Men Hoodie 90",
+    "category": "men",
+    "type": "hoodie",
+    "price": 101.63,
+    "discount": "21%",
+    "finalPrice": 80.29,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 90 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 91,
+    "name": "Men Hoodie 91",
+    "category": "men",
+    "type": "hoodie",
+    "price": 221.17,
+    "discount": "41%",
+    "finalPrice": 130.49,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 91 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 92,
+    "name": "Men Dress 92",
+    "category": "men",
+    "type": "dress",
+    "price": 158.39,
+    "discount": "16%",
+    "finalPrice": 133.05,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 92 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 93,
+    "name": "Women Hoodie 93",
+    "category": "women",
+    "type": "hoodie",
+    "price": 146.69,
+    "discount": "14%",
+    "finalPrice": 126.15,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 93 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 94,
+    "name": "Men Shirt 94",
+    "category": "men",
+    "type": "shirt",
+    "price": 412.23,
+    "discount": "45%",
+    "finalPrice": 226.73,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 94 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 95,
+    "name": "Men Pants 95",
+    "category": "men",
+    "type": "pants",
+    "price": 790.14,
+    "discount": "49%",
+    "finalPrice": 402.97,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 95 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 96,
+    "name": "Women Shirt 96",
+    "category": "women",
+    "type": "shirt",
+    "price": 643.87,
+    "discount": "42%",
+    "finalPrice": 373.44,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 96 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 97,
+    "name": "Men Shirt 97",
+    "category": "men",
+    "type": "shirt",
+    "price": 521.79,
+    "discount": "40%",
+    "finalPrice": 313.07,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 97 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 98,
+    "name": "Women Tshirt 98",
+    "category": "women",
+    "type": "tshirt",
+    "price": 166.29,
+    "discount": "44%",
+    "finalPrice": 93.12,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 98 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 99,
+    "name": "Men Shirt 99",
+    "category": "men",
+    "type": "shirt",
+    "price": 476.14,
+    "discount": "10%",
+    "finalPrice": 428.53,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 99 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 100,
+    "name": "Women Tshirt 100",
+    "category": "women",
+    "type": "tshirt",
+    "price": 143.06,
+    "discount": "31%",
+    "finalPrice": 98.71,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 100 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 101,
+    "name": "Women Hoodie 101",
+    "category": "women",
+    "type": "hoodie",
+    "price": 440.82,
+    "discount": "11%",
+    "finalPrice": 392.33,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 101 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 102,
+    "name": "Men Hoodie 102",
+    "category": "men",
+    "type": "hoodie",
+    "price": 102.81,
+    "discount": "22%",
+    "finalPrice": 80.19,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 102 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 103,
+    "name": "Women Shirt 103",
+    "category": "women",
+    "type": "shirt",
+    "price": 729.78,
+    "discount": "13%",
+    "finalPrice": 634.91,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 103 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 104,
+    "name": "Men Dress 104",
+    "category": "men",
+    "type": "dress",
+    "price": 196.74,
+    "discount": "48%",
+    "finalPrice": 102.3,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 104 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 105,
+    "name": "Men Shirt 105",
+    "category": "men",
+    "type": "shirt",
+    "price": 446.3,
+    "discount": "37%",
+    "finalPrice": 281.17,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 105 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 106,
+    "name": "Men Hoodie 106",
+    "category": "men",
+    "type": "hoodie",
+    "price": 534.85,
+    "discount": "10%",
+    "finalPrice": 481.37,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 106 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 107,
+    "name": "Men Dress 107",
+    "category": "men",
+    "type": "dress",
+    "price": 790.54,
+    "discount": "41%",
+    "finalPrice": 466.42,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 107 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 108,
+    "name": "Men Hoodie 108",
+    "category": "men",
+    "type": "hoodie",
+    "price": 225.21,
+    "discount": "25%",
+    "finalPrice": 168.91,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 108 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 109,
+    "name": "Men Tshirt 109",
+    "category": "men",
+    "type": "tshirt",
+    "price": 796.22,
+    "discount": "11%",
+    "finalPrice": 708.64,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 109 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 110,
+    "name": "Men Hoodie 110",
+    "category": "men",
+    "type": "hoodie",
+    "price": 590.37,
+    "discount": "18%",
+    "finalPrice": 484.1,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 110 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 111,
+    "name": "Men Pants 111",
+    "category": "men",
+    "type": "pants",
+    "price": 331.75,
+    "discount": "27%",
+    "finalPrice": 242.18,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 111 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 112,
+    "name": "Men Dress 112",
+    "category": "men",
+    "type": "dress",
+    "price": 145.49,
+    "discount": "25%",
+    "finalPrice": 109.12,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 112 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 113,
+    "name": "Men Tshirt 113",
+    "category": "men",
+    "type": "tshirt",
+    "price": 303.5,
+    "discount": "23%",
+    "finalPrice": 233.69,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 113 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 114,
+    "name": "Women Shirt 114",
+    "category": "women",
+    "type": "shirt",
+    "price": 65.68,
+    "discount": "43%",
+    "finalPrice": 37.44,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 114 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 115,
+    "name": "Men Shirt 115",
+    "category": "men",
+    "type": "shirt",
+    "price": 75.54,
+    "discount": "23%",
+    "finalPrice": 58.17,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 115 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 116,
+    "name": "Women Tshirt 116",
+    "category": "women",
+    "type": "tshirt",
+    "price": 475.24,
+    "discount": "32%",
+    "finalPrice": 323.16,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 116 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 117,
+    "name": "Women Dress 117",
+    "category": "women",
+    "type": "dress",
+    "price": 79.23,
+    "discount": "38%",
+    "finalPrice": 49.12,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 117 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 118,
+    "name": "Women Tshirt 118",
+    "category": "women",
+    "type": "tshirt",
+    "price": 99.04,
+    "discount": "46%",
+    "finalPrice": 53.48,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 118 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 119,
+    "name": "Women Hoodie 119",
+    "category": "women",
+    "type": "hoodie",
+    "price": 93.62,
+    "discount": "47%",
+    "finalPrice": 49.62,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 119 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 120,
+    "name": "Women Dress 120",
+    "category": "women",
+    "type": "dress",
+    "price": 828.21,
+    "discount": "24%",
+    "finalPrice": 629.44,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 120 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 121,
+    "name": "Women Hoodie 121",
+    "category": "women",
+    "type": "hoodie",
+    "price": 579.34,
+    "discount": "43%",
+    "finalPrice": 330.22,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 121 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 122,
+    "name": "Women Tshirt 122",
+    "category": "women",
+    "type": "tshirt",
+    "price": 567.05,
+    "discount": "49%",
+    "finalPrice": 289.2,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 122 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 123,
+    "name": "Women Hoodie 123",
+    "category": "women",
+    "type": "hoodie",
+    "price": 522.7,
+    "discount": "46%",
+    "finalPrice": 282.26,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 123 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 124,
+    "name": "Men Tshirt 124",
+    "category": "men",
+    "type": "tshirt",
+    "price": 215.34,
+    "discount": "48%",
+    "finalPrice": 111.98,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 124 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 125,
+    "name": "Women Shirt 125",
+    "category": "women",
+    "type": "shirt",
+    "price": 104.65,
+    "discount": "30%",
+    "finalPrice": 73.25,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 125 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 126,
+    "name": "Women Hoodie 126",
+    "category": "women",
+    "type": "hoodie",
+    "price": 65.35,
+    "discount": "18%",
+    "finalPrice": 53.59,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 126 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 127,
+    "name": "Women Pants 127",
+    "category": "women",
+    "type": "pants",
+    "price": 181.92,
+    "discount": "48%",
+    "finalPrice": 94.6,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 127 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 128,
+    "name": "Women Pants 128",
+    "category": "women",
+    "type": "pants",
+    "price": 148.37,
+    "discount": "11%",
+    "finalPrice": 132.05,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 128 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 129,
+    "name": "Men Hoodie 129",
+    "category": "men",
+    "type": "hoodie",
+    "price": 94.9,
+    "discount": "40%",
+    "finalPrice": 56.94,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 129 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 130,
+    "name": "Men Pants 130",
+    "category": "men",
+    "type": "pants",
+    "price": 825.82,
+    "discount": "23%",
+    "finalPrice": 635.88,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 130 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 131,
+    "name": "Men Pants 131",
+    "category": "men",
+    "type": "pants",
+    "price": 629.17,
+    "discount": "24%",
+    "finalPrice": 478.17,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 131 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 132,
+    "name": "Women Shirt 132",
+    "category": "women",
+    "type": "shirt",
+    "price": 488.62,
+    "discount": "29%",
+    "finalPrice": 346.92,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 132 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 133,
+    "name": "Women Tshirt 133",
+    "category": "women",
+    "type": "tshirt",
+    "price": 642.26,
+    "discount": "24%",
+    "finalPrice": 488.12,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 133 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 134,
+    "name": "Women Dress 134",
+    "category": "women",
+    "type": "dress",
+    "price": 831.56,
+    "discount": "35%",
+    "finalPrice": 540.51,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 134 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 135,
+    "name": "Men Dress 135",
+    "category": "men",
+    "type": "dress",
+    "price": 119.7,
+    "discount": "23%",
+    "finalPrice": 92.17,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 135 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 136,
+    "name": "Women Hoodie 136",
+    "category": "women",
+    "type": "hoodie",
+    "price": 67.61,
+    "discount": "35%",
+    "finalPrice": 43.95,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 136 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 137,
+    "name": "Men Pants 137",
+    "category": "men",
+    "type": "pants",
+    "price": 189.1,
+    "discount": "16%",
+    "finalPrice": 158.84,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 137 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 138,
+    "name": "Women Hoodie 138",
+    "category": "women",
+    "type": "hoodie",
+    "price": 884.95,
+    "discount": "32%",
+    "finalPrice": 601.77,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 138 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 139,
+    "name": "Men Shirt 139",
+    "category": "men",
+    "type": "shirt",
+    "price": 83.85,
+    "discount": "38%",
+    "finalPrice": 51.99,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 139 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 140,
+    "name": "Men Pants 140",
+    "category": "men",
+    "type": "pants",
+    "price": 627.37,
+    "discount": "44%",
+    "finalPrice": 351.33,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 140 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 141,
+    "name": "Men Shirt 141",
+    "category": "men",
+    "type": "shirt",
+    "price": 139.36,
+    "discount": "48%",
+    "finalPrice": 72.47,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 141 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 142,
+    "name": "Men Dress 142",
+    "category": "men",
+    "type": "dress",
+    "price": 831.94,
+    "discount": "32%",
+    "finalPrice": 565.72,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 142 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 143,
+    "name": "Men Dress 143",
+    "category": "men",
+    "type": "dress",
+    "price": 608.77,
+    "discount": "38%",
+    "finalPrice": 377.44,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 143 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 144,
+    "name": "Women Hoodie 144",
+    "category": "women",
+    "type": "hoodie",
+    "price": 172.03,
+    "discount": "22%",
+    "finalPrice": 134.18,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 144 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 145,
+    "name": "Women Shirt 145",
+    "category": "women",
+    "type": "shirt",
+    "price": 205.25,
+    "discount": "19%",
+    "finalPrice": 166.25,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 145 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 146,
+    "name": "Men Pants 146",
+    "category": "men",
+    "type": "pants",
+    "price": 435.13,
+    "discount": "31%",
+    "finalPrice": 300.24,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 146 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 147,
+    "name": "Men Tshirt 147",
+    "category": "men",
+    "type": "tshirt",
+    "price": 78.29,
+    "discount": "12%",
+    "finalPrice": 68.9,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 147 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 148,
+    "name": "Women Hoodie 148",
+    "category": "women",
+    "type": "hoodie",
+    "price": 172.82,
+    "discount": "19%",
+    "finalPrice": 139.98,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 148 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 149,
+    "name": "Women Dress 149",
+    "category": "women",
+    "type": "dress",
+    "price": 144.97,
+    "discount": "32%",
+    "finalPrice": 98.58,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 149 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 150,
+    "name": "Women Tshirt 150",
+    "category": "women",
+    "type": "tshirt",
+    "price": 73.44,
+    "discount": "10%",
+    "finalPrice": 66.1,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 150 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 151,
+    "name": "Women Pants 151",
+    "category": "women",
+    "type": "pants",
+    "price": 433.99,
+    "discount": "15%",
+    "finalPrice": 368.89,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 151 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 152,
+    "name": "Women Dress 152",
+    "category": "women",
+    "type": "dress",
+    "price": 75.63,
+    "discount": "35%",
+    "finalPrice": 49.16,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 152 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 153,
+    "name": "Men Tshirt 153",
+    "category": "men",
+    "type": "tshirt",
+    "price": 173.92,
+    "discount": "28%",
+    "finalPrice": 125.22,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 153 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 154,
+    "name": "Men Hoodie 154",
+    "category": "men",
+    "type": "hoodie",
+    "price": 101.16,
+    "discount": "50%",
+    "finalPrice": 50.58,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 154 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 155,
+    "name": "Men Tshirt 155",
+    "category": "men",
+    "type": "tshirt",
+    "price": 220.77,
+    "discount": "23%",
+    "finalPrice": 169.99,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 155 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 156,
+    "name": "Men Shirt 156",
+    "category": "men",
+    "type": "shirt",
+    "price": 378.72,
+    "discount": "33%",
+    "finalPrice": 253.74,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 156 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 157,
+    "name": "Men Dress 157",
+    "category": "men",
+    "type": "dress",
+    "price": 722.42,
+    "discount": "27%",
+    "finalPrice": 527.37,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 157 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 158,
+    "name": "Women Hoodie 158",
+    "category": "women",
+    "type": "hoodie",
+    "price": 206.38,
+    "discount": "38%",
+    "finalPrice": 127.96,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 158 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 159,
+    "name": "Men Hoodie 159",
+    "category": "men",
+    "type": "hoodie",
+    "price": 104.82,
+    "discount": "34%",
+    "finalPrice": 69.18,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 159 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 160,
+    "name": "Women Shirt 160",
+    "category": "women",
+    "type": "shirt",
+    "price": 738.68,
+    "discount": "24%",
+    "finalPrice": 561.4,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 160 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 161,
+    "name": "Men Dress 161",
+    "category": "men",
+    "type": "dress",
+    "price": 106.43,
+    "discount": "50%",
+    "finalPrice": 53.22,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 161 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 162,
+    "name": "Men Tshirt 162",
+    "category": "men",
+    "type": "tshirt",
+    "price": 600.71,
+    "discount": "49%",
+    "finalPrice": 306.36,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 162 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 163,
+    "name": "Men Pants 163",
+    "category": "men",
+    "type": "pants",
+    "price": 109.37,
+    "discount": "13%",
+    "finalPrice": 95.15,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 163 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 164,
+    "name": "Women Dress 164",
+    "category": "women",
+    "type": "dress",
+    "price": 402.89,
+    "discount": "32%",
+    "finalPrice": 273.97,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 164 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 165,
+    "name": "Women Dress 165",
+    "category": "women",
+    "type": "dress",
+    "price": 895.53,
+    "discount": "36%",
+    "finalPrice": 573.14,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 165 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 166,
+    "name": "Men Tshirt 166",
+    "category": "men",
+    "type": "tshirt",
+    "price": 604.7,
+    "discount": "18%",
+    "finalPrice": 495.85,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 166 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 167,
+    "name": "Women Hoodie 167",
+    "category": "women",
+    "type": "hoodie",
+    "price": 118.61,
+    "discount": "41%",
+    "finalPrice": 69.98,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 167 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 168,
+    "name": "Women Shirt 168",
+    "category": "women",
+    "type": "shirt",
+    "price": 697.31,
+    "discount": "49%",
+    "finalPrice": 355.63,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 168 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 169,
+    "name": "Women Hoodie 169",
+    "category": "women",
+    "type": "hoodie",
+    "price": 756.07,
+    "discount": "35%",
+    "finalPrice": 491.45,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 169 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 170,
+    "name": "Men Hoodie 170",
+    "category": "men",
+    "type": "hoodie",
+    "price": 111.15,
+    "discount": "22%",
+    "finalPrice": 86.7,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 170 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 171,
+    "name": "Women Shirt 171",
+    "category": "women",
+    "type": "shirt",
+    "price": 115.41,
+    "discount": "49%",
+    "finalPrice": 58.86,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 171 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 172,
+    "name": "Women Pants 172",
+    "category": "women",
+    "type": "pants",
+    "price": 152.62,
+    "discount": "44%",
+    "finalPrice": 85.47,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 172 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 173,
+    "name": "Men Pants 173",
+    "category": "men",
+    "type": "pants",
+    "price": 136.99,
+    "discount": "46%",
+    "finalPrice": 73.97,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 173 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 174,
+    "name": "Men Hoodie 174",
+    "category": "men",
+    "type": "hoodie",
+    "price": 200.55,
+    "discount": "19%",
+    "finalPrice": 162.45,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 174 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 175,
+    "name": "Men Tshirt 175",
+    "category": "men",
+    "type": "tshirt",
+    "price": 128.6,
+    "discount": "49%",
+    "finalPrice": 65.59,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 175 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 176,
+    "name": "Men Tshirt 176",
+    "category": "men",
+    "type": "tshirt",
+    "price": 715.68,
+    "discount": "34%",
+    "finalPrice": 472.35,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 176 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 177,
+    "name": "Men Tshirt 177",
+    "category": "men",
+    "type": "tshirt",
+    "price": 94.28,
+    "discount": "14%",
+    "finalPrice": 81.08,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 177 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 178,
+    "name": "Men Pants 178",
+    "category": "men",
+    "type": "pants",
+    "price": 601.97,
+    "discount": "20%",
+    "finalPrice": 481.58,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 178 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 179,
+    "name": "Men Pants 179",
+    "category": "men",
+    "type": "pants",
+    "price": 116.43,
+    "discount": "13%",
+    "finalPrice": 101.29,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 179 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 180,
+    "name": "Women Shirt 180",
+    "category": "women",
+    "type": "shirt",
+    "price": 471.77,
+    "discount": "30%",
+    "finalPrice": 330.24,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 180 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 181,
+    "name": "Men Shirt 181",
+    "category": "men",
+    "type": "shirt",
+    "price": 202.32,
+    "discount": "22%",
+    "finalPrice": 157.81,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Shirt 181 - A high-quality shirt for men with great comfort and style."
+  },
+  {
+    "id": 182,
+    "name": "Men Dress 182",
+    "category": "men",
+    "type": "dress",
+    "price": 320.43,
+    "discount": "42%",
+    "finalPrice": 185.85,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Dress 182 - A high-quality dress for men with great comfort and style."
+  },
+  {
+    "id": 183,
+    "name": "Men Pants 183",
+    "category": "men",
+    "type": "pants",
+    "price": 88.57,
+    "discount": "47%",
+    "finalPrice": 46.94,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Pants 183 - A high-quality pants for men with great comfort and style."
+  },
+  {
+    "id": 184,
+    "name": "Women Dress 184",
+    "category": "women",
+    "type": "dress",
+    "price": 132.73,
+    "discount": "33%",
+    "finalPrice": 88.93,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 184 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 185,
+    "name": "Women Hoodie 185",
+    "category": "women",
+    "type": "hoodie",
+    "price": 231.83,
+    "discount": "35%",
+    "finalPrice": 150.69,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 185 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 186,
+    "name": "Women Pants 186",
+    "category": "women",
+    "type": "pants",
+    "price": 386.66,
+    "discount": "41%",
+    "finalPrice": 228.13,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Pants 186 - A high-quality pants for women with great comfort and style."
+  },
+  {
+    "id": 187,
+    "name": "Men Tshirt 187",
+    "category": "men",
+    "type": "tshirt",
+    "price": 248.99,
+    "discount": "26%",
+    "finalPrice": 184.25,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 187 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 188,
+    "name": "Women Shirt 188",
+    "category": "women",
+    "type": "shirt",
+    "price": 88.42,
+    "discount": "13%",
+    "finalPrice": 76.93,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 188 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 189,
+    "name": "Women Tshirt 189",
+    "category": "women",
+    "type": "tshirt",
+    "price": 689.78,
+    "discount": "17%",
+    "finalPrice": 572.52,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 189 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 190,
+    "name": "Women Hoodie 190",
+    "category": "women",
+    "type": "hoodie",
+    "price": 835.13,
+    "discount": "24%",
+    "finalPrice": 634.7,
+    "newArrival": true,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 190 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 191,
+    "name": "Men Hoodie 191",
+    "category": "men",
+    "type": "hoodie",
+    "price": 92.01,
+    "discount": "19%",
+    "finalPrice": 74.53,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 191 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 192,
+    "name": "Women Shirt 192",
+    "category": "women",
+    "type": "shirt",
+    "price": 434.36,
+    "discount": "32%",
+    "finalPrice": 295.36,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 192 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 193,
+    "name": "Men Hoodie 193",
+    "category": "men",
+    "type": "hoodie",
+    "price": 324.81,
+    "discount": "20%",
+    "finalPrice": 259.85,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Hoodie 193 - A high-quality hoodie for men with great comfort and style."
+  },
+  {
+    "id": 194,
+    "name": "Women Tshirt 194",
+    "category": "women",
+    "type": "tshirt",
+    "price": 239.54,
+    "discount": "47%",
+    "finalPrice": 126.96,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Tshirt 194 - A high-quality tshirt for women with great comfort and style."
+  },
+  {
+    "id": 195,
+    "name": "Women Shirt 195",
+    "category": "women",
+    "type": "shirt",
+    "price": 246.81,
+    "discount": "26%",
+    "finalPrice": 182.64,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Shirt 195 - A high-quality shirt for women with great comfort and style."
+  },
+  {
+    "id": 196,
+    "name": "Women Dress 196",
+    "category": "women",
+    "type": "dress",
+    "price": 748.11,
+    "discount": "35%",
+    "finalPrice": 486.27,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Dress 196 - A high-quality dress for women with great comfort and style."
+  },
+  {
+    "id": 197,
+    "name": "Women Hoodie 197",
+    "category": "women",
+    "type": "hoodie",
+    "price": 84.83,
+    "discount": "41%",
+    "finalPrice": 50.05,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Women Hoodie 197 - A high-quality hoodie for women with great comfort and style."
+  },
+  {
+    "id": 198,
+    "name": "Men Tshirt 198",
+    "category": "men",
+    "type": "tshirt",
+    "price": 616.58,
+    "discount": "50%",
+    "finalPrice": 308.29,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 198 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 199,
+    "name": "Men Tshirt 199",
+    "category": "men",
+    "type": "tshirt",
+    "price": 190.22,
+    "discount": "23%",
+    "finalPrice": 146.47,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 199 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 200,
+    "name": "Men Tshirt 200",
+    "category": "men",
+    "type": "tshirt",
+    "price": 192.16,
+    "discount": "48%",
+    "finalPrice": 99.92,
+    "newArrival": false,
+    "images": [
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
+      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
+    ],
+    "description": "Men Tshirt 200 - A high-quality tshirt for men with great comfort and style."
+  }
+]
