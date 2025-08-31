@@ -5,26 +5,19 @@ import { CiHeart, CiLight } from "react-icons/ci";
 import { IoBagHandleSharp } from "react-icons/io5";
 import { useCart } from "../Context/Addtocart";
 import { useNavigate } from "react-router-dom";
+import { useTheme } from "../Context/Toggletheme"; // <-- import theme context
+
 export const Header = () => {
   const [isMenuOpen, setMenuOpen] = useState(false);
-  const [theme, setTheme] = useState(true); // true = dark, false = light
-  const {
-    cart,
-    wishlist,
-    addToWishlist,
-    removeFromWishlist,
-     markWishlistViewed
-  } = useCart();
-
+  const { theme, toggleTheme } = useTheme(); // <-- use context
+  const { cart, wishlist } = useCart();
   const navigate = useNavigate();
-
- 
 
   return (
     <>
       <header
         className={`h-[60px] w-full fixed top-0 left-0 z-50 transition-colors duration-300 ${
-          theme ? "bg-black text-white" : "bg-white text-black shadow-md"
+          theme === "dark" ? "bg-black text-white border-b-2 border-gray-500" : "bg-white text-black shadow-md"
         }`}
       >
         <div className="flex items-center justify-between h-full px-6">
@@ -35,7 +28,9 @@ export const Header = () => {
               className="w-[35px] h-[35px] rounded-full"
               alt="logo"
             />
-            <h1 className="text-lg font-bold tracking-wide">VastraHub</h1>
+            <h1 className="font-allura text-2xl sm:text-4xl font-bold italic">
+              TrendHive
+            </h1>
           </div>
 
           {/* Desktop Nav */}
@@ -51,14 +46,14 @@ export const Header = () => {
           {/* Icons */}
           <div className="flex items-center gap-5 text-xl relative">
             {/* Theme Toggle */}
-            {theme ? (
+            {theme === "dark" ? (
               <MdDarkMode
-                onClick={() => setTheme(!theme)}
+                onClick={toggleTheme}
                 className="cursor-pointer hover:text-red-500 transition"
               />
             ) : (
               <CiLight
-                onClick={() => setTheme(!theme)}
+                onClick={toggleTheme}
                 className="cursor-pointer hover:text-red-500 transition"
               />
             )}
@@ -68,9 +63,8 @@ export const Header = () => {
               <CiHeart
                 className={`text-2xl cursor-pointer transition-transform duration-300 ${
                   wishlist.length > 0 ? "text-red-500" : "text-gray-400"
-                } `}
-               onClick={() => navigate("/mywishlist")}
-
+                }`}
+                onClick={() => navigate("/mywishlist")}
               />
               {wishlist.length > 0 && (
                 <span className="absolute -top-1 -right-1 w-3 h-3 bg-red-500 rounded-full"></span>
@@ -79,11 +73,10 @@ export const Header = () => {
 
             {/* Cart */}
             <div className="relative cursor-pointer">
-            <IoBagHandleSharp
-  className="hover:text-red-500 transition text-2xl cursor-pointer"
-  onClick={() => navigate("/mycart")}
-/>
-
+              <IoBagHandleSharp
+                className="hover:text-red-500 transition text-2xl cursor-pointer"
+                onClick={() => navigate("/mycart")}
+              />
               {cart.length > 0 && (
                 <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs w-5 h-5 flex items-center justify-center rounded-full">
                   {cart.length}
@@ -105,7 +98,7 @@ export const Header = () => {
       {/* Mobile Menu */}
       <div
         className={`fixed top-[60px] left-0 w-[220px] h-[calc(100vh-60px)] ${
-          theme ? "bg-black text-white" : "bg-white text-black"
+          theme === "dark" ? "bg-black text-white" : "bg-white text-black"
         } shadow-lg p-6 transform transition-transform duration-300 md:hidden z-40 ${
           isMenuOpen ? "translate-x-0" : "-translate-x-full"
         }`}
