@@ -25,7 +25,7 @@ export const Whislist = () => {
           >
            
             <img
-              src={product.image || "/hoodie.jpg"}
+              src={product.images}
               alt={product.description}
               className="w-[150px] h-[200px] object-cover mb-2 cursor-pointer"
               onClick={() => navigate(`/products/${product.id}`)}

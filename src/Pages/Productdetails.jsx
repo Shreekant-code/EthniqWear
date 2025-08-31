@@ -16,7 +16,7 @@ export const Productdetails = () => {
     <div className="px-8 py-8 mt-[60px] flex justify-center items-center gap-4">
       
       <img
-        src={product.image || "/hoodie.jpg"}
+        src={product.images}
         alt={product.description}
         className="w-[300px] h-[400px] mb-4"
       />
@@ -30,7 +30,7 @@ export const Productdetails = () => {
   
        
 
-       
+
       <button
         className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
         onClick={() => addTocart(product)}
