@@ -69,7 +69,7 @@ export const Mensection = () => {
                 }`}
                 onClick={(e) => handleWishlist(e, prod)}
               />
-<p className="absolute bottom-[30%] left-1 text-black">{prod.rating}</p>
+<p className="absolute top-[40%] left-1 text-white">{prod.rating}</p>
               
               <img
                 src={prod.images}
