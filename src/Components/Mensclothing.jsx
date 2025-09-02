@@ -35,7 +35,7 @@ export const Mensclothing = () => {
             <SwiperSlide key={item.id}>
               <NavLink to={`/products/${item.id}`}>
                 <div
-                  className={`h-[300px] w-[220px] sm:h-[400px] sm:w-[300px] relative rounded-[5px] overflow-hidden group cursor-pointer transition-colors duration-300 ${
+                  className={`h-[300px] w-[180px] sm:h-[400px] sm:w-[300px] relative rounded-[5px] overflow-hidden group cursor-pointer transition-colors duration-300 ${
                     theme === "dark" ? "bg-gray-900" : "bg-white"
                   }`}
                 >
@@ -52,9 +52,9 @@ export const Mensclothing = () => {
                     <p className="text-[10px] text-center">{item.discount}</p>
                     <p className="text-[10px] text-center">Off</p>
                   </div>
-                  <p className="absolute bottom-[20px] left-4 text-white">{item.rating}</p>
+                  <p className="absolute bottom-[8px] left-4 text-white">{item.rating}</p>
 
-                  <h3 className="absolute bottom-[10%] left-1/2 -translate-x-1/2 font-semibold transition-colors duration-300"
+                  <h3 className="absolute bottom-[10%] left-1/2 -translate-x-1/2 font-semibold transition-colors duration-300 text-[12px] sm:text-[15px] md:text-[20px]"
                       style={{ color: theme === "dark" ? "white" : "white" }}>
                     {item.name}
                   </h3>
@@ -66,6 +66,7 @@ export const Mensclothing = () => {
       </div>
 
       <Menscategory />
+      
     </>
   );
 };

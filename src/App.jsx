@@ -8,6 +8,7 @@ import { Womensection } from "./Pages/Womensection";
 import { Productdetails } from "./Pages/Productdetails";
 import { Whislist } from "./Pages/Whislist";
 import { CartPage } from "./Pages/Mycart";
+import { Footer} from "./Components/Footer";
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
               <>
                 <Homesection />
                 <ShowProducts />
+                <Footer />
               </>
             }
           />
