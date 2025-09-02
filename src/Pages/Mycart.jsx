@@ -11,10 +11,10 @@ export const CartPage = () => {
   const { theme } = useTheme();
 
   const subtotal = cart.reduce(
-    (acc, item) => acc + item.finalPrice * item.quantity,
+    (acc, item) => acc + item.price * item.quantity,
     0
   );
-  const total = cart.reduce((acc, item) => acc + item.price * item.quantity, 0);
+  const total = cart.reduce((acc, item) => acc + item.finalPrice * item.quantity, 0);
   const discount = subtotal - total;
   const platformFee = cart.length > 0 ? 10 : 0;
   const finalTotal = total + platformFee;
