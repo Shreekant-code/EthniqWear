@@ -45,4 +45,19 @@ Example sections:
 ```bash
 git clone https://github.com/Shreekant-code/TrendHive.git
 cd TrendHive
+npm install
+npm run dev
+
+TrendHive/
+│── src/
+│   ├── components/     # UI Components (Header, Footer, Product Cards, etc.)
+│   ├── Context/        # Cart, Wishlist, Theme Context
+│   ├── pages/          # MenSection, WomenSection, etc.
+│   ├── App.jsx         # Main App with Routes
+│   └── main.jsx        # Entry point
+│
+│── public/             # Static assets (images, icons, etc.)
+│── package.json
+│── tailwind.config.js
+│── README.md
 
