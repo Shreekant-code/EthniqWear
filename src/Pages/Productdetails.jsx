@@ -40,9 +40,9 @@ export const Productdetails = () => {
         <p className="mb-2 text-lg">{product.description}</p>
 
         <p className="mb-4">
-          <span className="font-bold text-xl">₹{product.price}</span>{" "}
+          <span className="font-bold text-xl">₹{product.finalPrice}</span>{" "}
           <span className="line-through text-sm text-gray-500">
-            ₹{product.finalPrice}
+            ₹{product.price}
           </span>{" "}
           <span className="text-green-500">{product.discount} off</span>
         </p>
