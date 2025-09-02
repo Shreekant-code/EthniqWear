@@ -16,19 +16,6 @@ It features a stylish UI, product filtering, wishlist, cart management with disc
 ✅ **Modern Footer & Header** with social media links  
 ✅ **Developed with React + TailwindCSS** for fast, sleek UI  
 
----
-
-## 🖼️ Screenshots
-
-> _(Add your project screenshots here once deployed)_  
-Example sections:  
-- 🏠 Homepage  
-- 👕 Men’s Section  
-- 👗 Women’s Section  
-- ❤️ Wishlist  
-- 🛒 Cart  
-
----
 
 ## ⚙️ Tech Stack
 
