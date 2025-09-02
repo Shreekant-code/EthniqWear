@@ -49,6 +49,7 @@ export const Womenclothing = () => {
                     alt={item.name}
                     className="w-full h-full border-amber-400 rounded-[5px] object-cover transition-transform duration-500 group-hover:scale-110"
                   />
+                   <p className="absolute bottom-[20px] left-4 text-white z-10">{item.rating}</p>
 
                   <div
                     className={`absolute bottom-0 left-0 w-full h-[35%] transition-colors duration-300 ${

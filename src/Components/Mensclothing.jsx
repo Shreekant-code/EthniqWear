@@ -52,6 +52,7 @@ export const Mensclothing = () => {
                     <p className="text-[10px] text-center">{item.discount}</p>
                     <p className="text-[10px] text-center">Off</p>
                   </div>
+                  <p className="absolute bottom-[20px] left-4 text-white">{item.rating}</p>
 
                   <h3 className="absolute bottom-[10%] left-1/2 -translate-x-1/2 font-semibold transition-colors duration-300"
                       style={{ color: theme === "dark" ? "white" : "white" }}>

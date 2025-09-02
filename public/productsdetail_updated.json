@@ -8,6 +8,7 @@
     "discount": "14%",
     "finalPrice": 132.22,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
       "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2024/OCTOBER/22/eO61OfXe_c4061711b0be4ed3bc2cc5793c196858.jpg"
       
@@ -23,28 +24,14 @@
     "discount": "42%",
     "finalPrice": 78.16,
     "newArrival": false,
+    "rating":"4.2⭐",
     "images": [
            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6YXCAy__DzzCqOfGxKtB64f_LhnhifCaiLGHGner-uF9lecBExtUqA9egPqgLPE1sIbc&usqp=CAU",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7"
     ],
     "description": "Women Tshirt 2 - A high-quality tshirt for women with great comfort and style."
   },
-  {
-    "id": 3,
-    "name": "Men Dress 3",
-    "category": "men",
-    "type": "dress",
-    "price": 202.88,
-    "discount": "19%",
-    "finalPrice": 164.33,
-    "newArrival": false,
-    "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
-    ],
-    "description": "Men Dress 3 - A high-quality dress for men with great comfort and style."
-  },
+  
   {
     "id": 4,
     "name": "Women Hoodie 4",
@@ -54,6 +41,7 @@
     "discount": "22%",
     "finalPrice": 61.98,
     "newArrival": false,
+    "rating":"4.3⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7jQSEf_BR8eD1nLTNdozG8IGcx7HugrFBNw&s",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
@@ -71,7 +59,9 @@
     "discount": "43%",
     "finalPrice": 404.26,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR06601.jpg?v=1751455865&width=200",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -87,29 +77,16 @@
     "discount": "11%",
     "finalPrice": 198.7,
     "newArrival": true,
+    "rating":"4.4⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/2_aa5fdd5b-ec8c-4b82-9285-e666e9c13c8d.jpg?v=1755673029&width=300",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
     ],
     "description": "Women Shirt 6 - A high-quality shirt for women with great comfort and style."
   },
-  {
-    "id": 7,
-    "name": "Men Dress 7",
-    "category": "men",
-    "type": "dress",
-    "price": 552.85,
-    "discount": "41%",
-    "finalPrice": 326.18,
-    "newArrival": false,
-    "images": [
-      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
-      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
-    ],
-    "description": "Men Dress 7 - A high-quality dress for men with great comfort and style."
-  },
+  
   {
     "id": 8,
     "name": "Men Tshirt 8",
@@ -119,6 +96,7 @@
     "discount": "12%",
     "finalPrice": 566.2,
     "newArrival": true,
+    "rating":"4.1⭐",
     "images": [
       "https://hushyrushy.com/cdn/shop/files/jimmy_mock2_e1763a4d-ef28-4715-9b64-9a352a40c566.jpg?v=1754814009",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
@@ -136,7 +114,9 @@
     "discount": "42%",
     "finalPrice": 195.98,
     "newArrival": false,
+    "rating":"4.8⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR08264.jpg?v=1750056749&width=200",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -152,7 +132,9 @@
     "discount": "20%",
     "finalPrice": 303.45,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/Beige_Techpro_Solid_Trouser_Ashley-DL003162A2-image1_500x.jpg?v=1750145279",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -168,7 +150,9 @@
     "discount": "31%",
     "finalPrice": 371.99,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdnWEOj5ZG-l-QE1xEHKzZ0vlBHNpZq-p8zQ&s",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -184,7 +168,9 @@
     "discount": "14%",
     "finalPrice": 124.52,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR04729.jpg?v=1751027568&width=200",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -200,7 +186,9 @@
     "discount": "17%",
     "finalPrice": 163.24,
     "newArrival": false,
+    "rating":"4.2⭐",
     "images": [
+      "https://veirdo.in/cdn/shop/files/ai_creative_0000_Layer_6.jpg?v=1754546584",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -216,6 +204,7 @@
     "discount": "45%",
     "finalPrice": 118.95,
     "newArrival": false,
+    "rating":"4.9⭐",
     "images": [
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
@@ -223,22 +212,7 @@
     ],
     "description": "Women Dress 14 - A high-quality dress for women with great comfort and style."
   },
-  {
-    "id": 15,
-    "name": "Women Dress 15",
-    "category": "women",
-    "type": "dress",
-    "price": 673.96,
-    "discount": "43%",
-    "finalPrice": 384.16,
-    "newArrival": true,
-    "images": [
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 15 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 16,
     "name": "Women Pants 16",
@@ -248,7 +222,10 @@
     "discount": "24%",
     "finalPrice": 157.69,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR06912_353ea4f7-6ec1-4b68-aa9e-b17be557b3a2.jpg?v=1751872263&width=200",
+
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -264,7 +241,9 @@
     "discount": "35%",
     "finalPrice": 342.28,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/Grey_Techpro_Solid_Trouser_Explorer-DL003180G1-image1_500x.jpg?v=1750145640",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -280,6 +259,7 @@
     "discount": "17%",
     "finalPrice": 150.16,
     "newArrival": true,
+    "rating":"4.7⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUDHdcC9SEDnR-VL4Il56yDQAlm2vGae8J2VDl6P-kTcA7ijBKSP7848iAtWFQGljm-Yo&usqp=CAU",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
@@ -297,7 +277,9 @@
     "discount": "16%",
     "finalPrice": 189.01,
     "newArrival": false,
+    "rating":"4.3⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrnRvHUjseiL35z9g9m4hXhFWWsiHMYxaQcA&s",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -313,7 +295,9 @@
     "discount": "48%",
     "finalPrice": 125.7,
     "newArrival": false,
+    "rating":"4.2⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0rkRf5-FToNtDltCr8WPfaSrUTvelIeR4g&s",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -329,7 +313,9 @@
     "discount": "23%",
     "finalPrice": 168.91,
     "newArrival": false,
+    "rating":"4.2⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR01427.jpg?v=1752759633&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -345,6 +331,7 @@
     "discount": "20%",
     "finalPrice": 189.38,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
       "https://tigc.in/cdn/shop/files/0424-ZFHCNTEE7-01_1.jpg?v=1735297381&width=360",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
@@ -362,6 +349,7 @@
     "discount": "40%",
     "finalPrice": 44.23,
     "newArrival": true,
+    "rating":"4.9⭐",
     "images": [
       "https://veirdo.in/cdn/shop/files/33_1.jpg?v=1754546136&width=533",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
@@ -379,29 +367,17 @@
     "discount": "17%",
     "finalPrice": 101.14,
     "newArrival": false,
+    "rating":"4.9⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR06713_534a5d31-894b-4133-b422-e07a9a22c4f2.jpg?v=1752072338&width=200",
+
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
     ],
     "description": "Women Pants 24 - A high-quality pants for women with great comfort and style."
   },
-  {
-    "id": 25,
-    "name": "Women Dress 25",
-    "category": "women",
-    "type": "dress",
-    "price": 86.67,
-    "discount": "12%",
-    "finalPrice": 76.27,
-    "newArrival": true,
-    "images": [
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 25 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 26,
     "name": "Men Hoodie 26",
@@ -411,7 +387,9 @@
     "discount": "36%",
     "finalPrice": 250.02,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZr-qGTYfMmeS1j4S6oNdjskLOt3u_EwWRYrRwcZnMyNytGgEKEbbIQgydmM1fOaD0XZE&usqp=CAU",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -427,7 +405,9 @@
     "discount": "26%",
     "finalPrice": 61.95,
     "newArrival": true,
+    "rating":"4.5⭐",
     "images": [
+      "https://nobero.com/cdn/shop/collections/hoodie.png?v=1735549412",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -443,6 +423,7 @@
     "discount": "16%",
     "finalPrice": 661.2,
     "newArrival": true,
+    "rating":"4.8⭐",
     "images": [
       "https://triprindia.com/cdn/shop/files/133close1.jpg?v=1741861583&width=1200",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
@@ -460,7 +441,9 @@
     "discount": "29%",
     "finalPrice": 321.56,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://www.flatheads.in/cdn/shop/files/crew-neck-t-shirt-mockup-of-a-man-smiling-at-a-studio-28953.png?v=1699471647",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -476,7 +459,9 @@
     "discount": "50%",
     "finalPrice": 67.42,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c2hpcnR8ZW58MHx8MHx8fDA%3D",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -492,7 +477,9 @@
     "discount": "16%",
     "finalPrice": 699.26,
     "newArrival": false,
+    "rating":"4.2⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR05609.jpg?v=1752057235&width=200",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -508,6 +495,7 @@
     "discount": "32%",
     "finalPrice": 474.02,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -524,6 +512,7 @@
     "discount": "29%",
     "finalPrice": 108.46,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
       "https://spykar.com/cdn/shop/products/WKTFT1BD119FORESTGREEN_1.jpg?v=1755857392",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
@@ -541,29 +530,16 @@
     "discount": "45%",
     "finalPrice": 107.08,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNoaXJ0fGVufDB8fDB8fHww",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
     ],
     "description": "Men Shirt 34 - A high-quality shirt for men with great comfort and style."
   },
-  {
-    "id": 35,
-    "name": "Women Dress 35",
-    "category": "women",
-    "type": "dress",
-    "price": 767.28,
-    "discount": "20%",
-    "finalPrice": 613.82,
-    "newArrival": false,
-    "images": [
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 35 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 36,
     "name": "Men Pants 36",
@@ -573,7 +549,9 @@
     "discount": "46%",
     "finalPrice": 263.95,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/formal-trousers-in-black-b-91-travis-blackberrys-clothing-3_66f165a5-b7a0-41e5-bf81-437375a19a2a_500x.jpg?v=1749126633",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -589,7 +567,9 @@
     "discount": "30%",
     "finalPrice": 143.01,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/Indigo_Ultrasoft_Straight_Comfort_Jeans_Leopord-ED003218B3-image1_500x.jpg?v=1752230486",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -605,6 +585,7 @@
     "discount": "28%",
     "finalPrice": 159.23,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
       "https://www.bonkerscorner.com/cdn/shop/files/sports-dept-oversized-t-shirt-xxs-bonkerscorner-store-33690223411300.jpg?v=1728980782",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
@@ -622,7 +603,9 @@
     "discount": "46%",
     "finalPrice": 106.62,
     "newArrival": false,
+    "rating":"4.5⭐",
     "images": [
+      "https://www.urbanneeds.in/cdn/shop/files/DSCF7973.jpg?v=1705754082&width=1946",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -638,7 +621,9 @@
     "discount": "15%",
     "finalPrice": 150.19,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMOVSRT7609_2_b47d7cf8-92da-4492-94b9-a6bf7d82d3f0.jpg?v=1730801146&width=200",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -654,7 +639,9 @@
     "discount": "13%",
     "finalPrice": 124.64,
     "newArrival": false,
+      "rating":"4.3⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT7199_2_34c6e3d0-26e5-447e-b221-ea7254326ff0.jpg?v=1752325445&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -670,7 +657,9 @@
     "discount": "47%",
     "finalPrice": 89.84,
     "newArrival": false,
+      "rating":"4.8⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHwf_vQHlzB2xZ6JjKWNQXVph3xwpzoDlvg&s",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -686,7 +675,9 @@
     "discount": "39%",
     "finalPrice": 107.88,
     "newArrival": true,
+      "rating":"4.9⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9832_2_aa017d99-2f95-40e9-a0e9-54b10c28e3d6.jpg?v=1755684687&width=200",
       "https://pictures.kartmax.in/live/inside/800x800/sites/9s145MyZrWdIAwpU0JYS/product-images/levis_cotton_navy_check_shirt_for_men_173331589532874_0606_1.jpg",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
@@ -703,7 +694,9 @@
     "discount": "27%",
     "finalPrice": 136.53,
     "newArrival": false,
+      "rating":"3.9⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuDBEcSELAMb3GZfQ56xeSsyayiOEoeeK-qQ&s",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -719,7 +712,9 @@
     "discount": "47%",
     "finalPrice": 206.97,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/2_e370259a-c92e-46c3-8b74-d8efbdd30d9b.jpg?v=1755672629&width=300",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -735,7 +730,9 @@
     "discount": "47%",
     "finalPrice": 37.41,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/Indigo_Slim_Fit_Jeans_Steve-ED003300B3-image3_500x.jpg?v=1749126693",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -751,6 +748,7 @@
     "discount": "35%",
     "finalPrice": 224.9,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
       "https://media.boohoo.com/i/boohoo/hzz11922_green_xl?pdp.template",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
@@ -768,6 +766,7 @@
     "discount": "13%",
     "finalPrice": 427.14,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -784,7 +783,9 @@
     "discount": "31%",
     "finalPrice": 576.25,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://dorex.in/cdn/shop/products/malemockupswhite.jpg?v=1628444309",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -800,6 +801,7 @@
     "discount": "44%",
     "finalPrice": 118.22,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -816,6 +818,7 @@
     "discount": "44%",
     "finalPrice": 136.25,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -832,6 +835,7 @@
     "discount": "39%",
     "finalPrice": 281.33,
     "newArrival": true,
+      "rating":"4.2⭐",
     "images": [
       "https://www.iconicindia.com/cdn/shop/files/GMW24-0020150755_1_e41cd19a-5589-4184-b99f-c72a2468dc15.jpg?v=1754662140",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
@@ -849,7 +853,9 @@
     "discount": "41%",
     "finalPrice": 90.83,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9367_2_a63ea02a-3ae3-4a8a-b4c0-b466f3fd6ece.jpg?v=1755684597&width=200",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -865,7 +871,9 @@
     "discount": "43%",
     "finalPrice": 408.66,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR06340_073946b1-d748-491d-9e52-947cab4ba91e.jpg?v=1751364140&width=200",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -881,7 +889,9 @@
     "discount": "37%",
     "finalPrice": 97.05,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/2_d1cea22f-ad0f-43c4-b60d-1806894adef9.jpg?v=1755672431&width=300",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -897,7 +907,9 @@
     "discount": "36%",
     "finalPrice": 309.93,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/Indigo_Ultrasoft_Slim_Comfort_Jeans_Otmer-ED003221B3-image1_500x.jpg?v=1752230644",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -913,6 +925,7 @@
     "discount": "11%",
     "finalPrice": 320.2,
     "newArrival": false,
+      "rating":"4.2⭐",
     "images": [
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
@@ -929,7 +942,9 @@
     "discount": "13%",
     "finalPrice": 663.11,
     "newArrival": false,
+      "rating":"4.6⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/Ultrasoft-Slim-Comfort-Buff-Fit-Indigo-Jeans-Gelbero_ED003121B3_image3_500x.jpg?v=1749126679",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -945,6 +960,7 @@
     "discount": "47%",
     "finalPrice": 120.39,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
@@ -961,6 +977,7 @@
     "discount": "30%",
     "finalPrice": 264.04,
     "newArrival": true,
+    "rating":"4.6⭐",
     "images": [
       "https://punjabiadda.in/cdn/shop/files/punjabi-aagaye-oye-hoodie-blue_1200x.jpg?v=1729581871",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
@@ -978,6 +995,7 @@
     "discount": "40%",
     "finalPrice": 68.66,
     "newArrival": true,
+    "rating":"4.6⭐",
     "images": [
       "https://tigc.in/cdn/shop/files/1023-CTEE-167-1_1_7741813a-b7db-40d1-b99f-db69a3e1c024.jpg?v=1752565090&width=360",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
@@ -995,7 +1013,10 @@
     "discount": "31%",
     "finalPrice": 588.3,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/0569/0284/4581/files/Indigo_Ultrasoft_Slim_Comfort_Jeans_Otmer-ED003221B3-image1_500x.jpg?v=1752230644",
+
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -1011,7 +1032,9 @@
     "discount": "42%",
     "finalPrice": 52.66,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/2_6c1262ee-d9dc-4717-a05b-925cd21ab529.jpg?v=1755672083&width=300",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -1027,7 +1050,9 @@
     "discount": "35%",
     "finalPrice": 115.14,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR02605_0e5178e8-abb6-4bd4-8404-8a49066645d1.jpg?v=1753080997&width=900",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -1043,6 +1068,7 @@
     "discount": "27%",
     "finalPrice": 495.55,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
       "https://blakelyclothing.com/cdn/shop/files/2012GkhakigreenLEADD_800x.jpg?v=1723986322",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
@@ -1051,22 +1077,7 @@
     ],
     "description": "Women Hoodie 65 - A high-quality hoodie for women with great comfort and style."
   },
-  {
-    "id": 66,
-    "name": "Women Dress 66",
-    "category": "women",
-    "type": "dress",
-    "price": 248.99,
-    "discount": "16%",
-    "finalPrice": 209.15,
-    "newArrival": true,
-    "images": [
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 66 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 67,
     "name": "Women Pants 67",
@@ -1076,7 +1087,9 @@
     "discount": "12%",
     "finalPrice": 218.99,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR06519.jpg?v=1752063438&width=200",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -1092,7 +1105,9 @@
     "discount": "17%",
     "finalPrice": 146.98,
     "newArrival": true,
+    "rating":"4.6⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/DSC02082.jpg?v=1749907639&width=200",
       "https://assets.ajio.com/medias/sys_master/root/20241015/JK6t/670e9bc7260f9c41e87a6d0b/-473Wx593H-700588765-grey-MODEL.jpg",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -1109,7 +1124,9 @@
     "discount": "49%",
     "finalPrice": 196.93,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/2_87b1f378-4e21-4154-8a4a-4b575c472ec0.jpg?v=1755671691&width=300",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -1125,7 +1142,9 @@
     "discount": "17%",
     "finalPrice": 740.92,
     "newArrival": true,
+    "rating":"4.6⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_7e76e3bb-30f5-4a31-8267-fbd2178c870b.jpg?v=1751452738&width=300",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -1141,29 +1160,16 @@
     "discount": "27%",
     "finalPrice": 124.19,
     "newArrival": false,
+    "rating":"4.6⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT7074_2_4f4099d2-653c-4fff-b984-60ca9b2ad2cd.jpg?v=1722595786&width=200",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
     ],
     "description": "Men Shirt 71 - A high-quality shirt for men with great comfort and style."
   },
-  {
-    "id": 72,
-    "name": "Women Dress 72",
-    "category": "women",
-    "type": "dress",
-    "price": 782.02,
-    "discount": "23%",
-    "finalPrice": 602.16,
-    "newArrival": true,
-    "images": [
-      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
-      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 72 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 73,
     "name": "Men Tshirt 73",
@@ -1173,7 +1179,9 @@
     "discount": "43%",
     "finalPrice": 360.1,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://bekaar.in/cdn/shop/files/2_6a0a7892-add9-439b-9050-b11de417143c.png?v=1751093299",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -1189,6 +1197,7 @@
     "discount": "30%",
     "finalPrice": 240.73,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
       "https://images.meesho.com/images/products/339952756/3zumn_512.webp?width=512",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
@@ -1206,7 +1215,9 @@
     "discount": "47%",
     "finalPrice": 34.66,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://crazymonk.in/cdn/shop/files/GenZPunk_3.jpg?v=1751104608&width=1946",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -1222,6 +1233,7 @@
     "discount": "46%",
     "finalPrice": 347.38,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
@@ -1238,7 +1250,9 @@
     "discount": "37%",
     "finalPrice": 121.63,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_40c895fb-4868-4d12-bd31-7e109bec3d12.jpg?v=1751452589&width=300",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -1254,7 +1268,9 @@
     "discount": "48%",
     "finalPrice": 110.51,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://www.zyradrip.com/cdn/shop/files/porsche-911-gt3-rs-white-oversized-tshirt-men-women_c2175410-f7e4-4176-86c1-b5d8b64dbeb4.webp?v=1749550720",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -1270,7 +1286,9 @@
     "discount": "40%",
     "finalPrice": 135.34,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_79b9f906-0ae8-4f05-8fb8-945f76dd1b5c.jpg?v=1751450769&width=300",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -1286,7 +1304,9 @@
     "discount": "46%",
     "finalPrice": 60.69,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT8666_2_0cf0628e-2b90-492f-bd9f-f0f74bcd897f.jpg?v=1740994867&width=200",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -1302,6 +1322,7 @@
     "discount": "14%",
     "finalPrice": 90.39,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
@@ -1318,6 +1339,7 @@
     "discount": "17%",
     "finalPrice": 69.95,
     "newArrival": true,
+    "rating":"4.1⭐",
     "images": [
       "https://nobero.com/cdn/shop/files/WhatsApp_Image_2024-08-13_at_6.50.45_PM.jpg?v=1752390901",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
@@ -1335,6 +1357,7 @@
     "discount": "33%",
     "finalPrice": 344.21,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbQWL0AqFSVGXQRHZsOUWxQ75QK_mEO5072H-LyuVWrKLtL2i8pI91yMXMpn3UW9fxGD4&usqp=CAU",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
@@ -1352,7 +1375,9 @@
     "discount": "34%",
     "finalPrice": 545.42,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/A_1_2b593595-3183-4b3a-8892-f05f653bb08a.jpg?v=1749907160&width=200",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -1368,6 +1393,7 @@
     "discount": "47%",
     "finalPrice": 412.79,
     "newArrival": true,
+    "rating":"4.1⭐",
     "images": [
       "https://uspoloassn.in/cdn/shop/files/1_ae2da387-f594-42d3-9bd6-f93125f15d8a_500x.jpg?v=1753973720",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
@@ -1385,6 +1411,7 @@
     "discount": "18%",
     "finalPrice": 64.17,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
@@ -1401,7 +1428,9 @@
     "discount": "12%",
     "finalPrice": 318.6,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR07063_cc169c67-8c8e-400e-8b41-f948945b2b68.jpg?v=1751982306&width=200",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -1417,6 +1446,7 @@
     "discount": "28%",
     "finalPrice": 515.3,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
      "https://st5.depositphotos.com/10614052/74971/i/450/depositphotos_749713814-stock-photo-young-woman-cap-pink-hoodie.jpg",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
@@ -1434,7 +1464,9 @@
     "discount": "26%",
     "finalPrice": 595.54,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9099_2_abee2d6e-60a0-44f4-860e-0503b9e10e83.jpg?v=1755684590&width=200",
       
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -1451,7 +1483,9 @@
     "discount": "21%",
     "finalPrice": 80.29,
     "newArrival": false,
+    "rating":"4.1⭐",
     "images": [
+      "https://cdn.shopify.com/s/files/1/1982/7331/files/hoodie_mobile.png?v=1708689041",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -1467,7 +1501,10 @@
     "discount": "41%",
     "finalPrice": 130.49,
     "newArrival": false,
+      "rating":"4.9⭐",
     "images": [
+
+      "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dw43a368b4/product_images/0193519270096NEW_00_001.jpg?sw=600",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -1483,6 +1520,7 @@
     "discount": "16%",
     "finalPrice": 133.05,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
@@ -1499,6 +1537,7 @@
     "discount": "14%",
     "finalPrice": 126.15,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
       "https://sunsetsurfnewquay.co.uk/cdn/shop/products/image_b3a788d3-53ca-4ccf-96df-de5a692b4e29_1200x.jpg?v=1619187299",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
@@ -1516,7 +1555,9 @@
     "discount": "45%",
     "finalPrice": 226.73,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9816_2_4b0d8b28-e57f-4e48-8720-51e1e7076718.jpg?v=1755684669&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -1532,7 +1573,9 @@
     "discount": "49%",
     "finalPrice": 402.97,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/8JULY24_16443-Edit_c09fbae1-bf38-48a9-b8ea-5f53fc90cc1b.jpg?v=1753990979&width=200",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -1548,7 +1591,9 @@
     "discount": "42%",
     "finalPrice": 373.44,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_13c736e5-bca7-4310-9aa5-f3357a041ca0.jpg?v=1751445965&width=300",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -1564,7 +1609,9 @@
     "discount": "40%",
     "finalPrice": 313.07,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT8303_2_48387478-ef47-4898-8fc3-63c9b109e3e9.jpg?v=1741611600&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -1580,6 +1627,7 @@
     "discount": "44%",
     "finalPrice": 93.12,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
       "https://img.drz.lazcdn.com/static/bd/p/dbd49092ae0757a0f86172476b39c7e6.jpg_960x960q80.jpg_.webp",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
@@ -1597,7 +1645,9 @@
     "discount": "10%",
     "finalPrice": 428.53,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9873_1_4cc980de-6687-4e5a-a178-8e04044b1582.jpg?v=1755684707&width=900",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -1613,6 +1663,7 @@
     "discount": "31%",
     "finalPrice": 98.71,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
       "https://behariji.com/cdn/shop/files/polo-180-gsm-womens-t-shirt2.jpg?v=1721566127",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
@@ -1630,6 +1681,7 @@
     "discount": "11%",
     "finalPrice": 392.33,
     "newArrival": true,
+     "rating":"3.9⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX6xCd4OgBiiCzEkLPa7mBwOysKVOZrU0mrA&s",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
@@ -1647,7 +1699,9 @@
     "discount": "22%",
     "finalPrice": 80.19,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0Sk9i0D2u6eQ2SLnZqOEbtXXxUC4Z90Xjg&s",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -1663,7 +1717,9 @@
     "discount": "13%",
     "finalPrice": 634.91,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_d980973a-9a4a-4075-972e-f4b8adc0ce33.jpg?v=1751444501&width=300",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -1679,6 +1735,7 @@
     "discount": "48%",
     "finalPrice": 102.3,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
@@ -1695,7 +1752,9 @@
     "discount": "37%",
     "finalPrice": 281.17,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9102_2_13530f65-9de5-49f3-802d-ee749173325a.jpg?v=1755684593&width=300",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -1711,7 +1770,9 @@
     "discount": "10%",
     "finalPrice": 481.37,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR87I1K8jIhYICpfwitJ7HQ9zFv5RCQdsxgcA&s",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -1727,6 +1788,7 @@
     "discount": "41%",
     "finalPrice": 466.42,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
@@ -1743,7 +1805,9 @@
     "discount": "25%",
     "finalPrice": 168.91,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrdzuPtIUzDsjjcAxEs4o3ljm_RWESn_XGw&s",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -1759,7 +1823,9 @@
     "discount": "11%",
     "finalPrice": 708.64,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://media.boohoo.com/i/boohoo/bmm43486_black_xl_3/male-black-oversized-marvel-avengers-license-t-shirt",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -1775,7 +1841,9 @@
     "discount": "18%",
     "finalPrice": 484.1,
     "newArrival": false,
+    "rating":"3.9⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtq2XM9OmObVNXNQDuoPBTnXT6-ppeR3k2A&s",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -1791,7 +1859,9 @@
     "discount": "27%",
     "finalPrice": 242.18,
     "newArrival": false,
+    "rating":"4.4⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/11aug_31283-Edit_d9c6c477-057b-4b0a-9b1c-aedd9c4cc59c.jpg?v=1754300633&width=200",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -1807,6 +1877,7 @@
     "discount": "25%",
     "finalPrice": 109.12,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
@@ -1823,7 +1894,9 @@
     "discount": "23%",
     "finalPrice": 233.69,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
+      "https://veirdo.in/cdn/shop/files/1_4_e49a7f86-3dd8-4c64-bb93-d1a061d43bb4.jpg?v=1754543387",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -1839,7 +1912,9 @@
     "discount": "43%",
     "finalPrice": 37.44,
     "newArrival": true,
+     "rating":"4.4⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_82b3a4b1-a602-486d-9009-7592a4300056.jpg?v=1751449950&width=300",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -1855,7 +1930,9 @@
     "discount": "23%",
     "finalPrice": 58.17,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9697_2_126310b7-9fe0-4a89-9fd7-bf54dbb9085b.jpg?v=1755684631&width=300",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -1871,6 +1948,7 @@
     "discount": "32%",
     "finalPrice": 323.16,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
       "https://images-cdn.ubuy.co.in/6366580bbe460c116c626799-romwe-women-39-s-oversized-t-shirt.jpg",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
@@ -1879,22 +1957,7 @@
     ],
     "description": "Women Tshirt 116 - A high-quality tshirt for women with great comfort and style."
   },
-  {
-    "id": 117,
-    "name": "Women Dress 117",
-    "category": "women",
-    "type": "dress",
-    "price": 79.23,
-    "discount": "38%",
-    "finalPrice": 49.12,
-    "newArrival": true,
-    "images": [
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 117 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 118,
     "name": "Women Tshirt 118",
@@ -1904,6 +1967,8 @@
     "discount": "46%",
     "finalPrice": 53.48,
     "newArrival": true,
+     "rating":"4.4⭐",
+    
     "images": [
       "https://img.lazcdn.com/g/p/fa7dce3cc117c19807cb89ed04ac59f8.jpg_720x720q80.jpg",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
@@ -1921,6 +1986,7 @@
     "discount": "47%",
     "finalPrice": 49.62,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
       "https://pronk.in/cdn/shop/products/346_bc420664-773e-47c9-b0ca-072220ad8447_1800x1800.jpg?v=1673684170",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
@@ -1938,6 +2004,7 @@
     "discount": "24%",
     "finalPrice": 629.44,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
@@ -1954,6 +2021,7 @@
     "discount": "43%",
     "finalPrice": 330.22,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
       "https://images.meesho.com/images/products/206006837/4vzkr_512.webp?width=512",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
@@ -1971,6 +2039,7 @@
     "discount": "49%",
     "finalPrice": 289.2,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
       "https://www.only.in/cdn/shop/files/902151301_g3_4b34fffb-8239-4883-8150-5ef468254d10.jpg?v=1755595126&width=1080",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
@@ -1988,6 +2057,7 @@
     "discount": "46%",
     "finalPrice": 282.26,
     "newArrival": false,
+     "rating":"4.4⭐",
     "images": [
       "https://muselot.in/cdn/shop/products/Unisex-Plain-Light-Pink-hoodies-Muselot_569ae9c3-88d5-43d2-a4f9-f50c83de0b14.jpg?v=1640639048",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
@@ -2005,7 +2075,9 @@
     "discount": "48%",
     "finalPrice": 111.98,
     "newArrival": true,
+     "rating":"4.4⭐",
     "images": [
+      "https://imagescdn.pantaloons.com/img/app/product/1/1039095-14958493.jpg?auto=format&w=450",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -2021,7 +2093,9 @@
     "discount": "30%",
     "finalPrice": 73.25,
     "newArrival": true,
+     "rating":"4.7⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_f5d6a50b-741b-4645-b4a8-f71cbc357cb2.jpg?v=1751447241&width=300",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -2037,6 +2111,7 @@
     "discount": "18%",
     "finalPrice": 53.59,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://imagescdn.thecollective.in/img/app/product/7/795165-9342557.jpg?asp=true&crop=700&auto=format",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
@@ -2054,7 +2129,9 @@
     "discount": "48%",
     "finalPrice": 94.6,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR08442.jpg?v=1750056755&width=200",
 
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
@@ -2071,7 +2148,9 @@
     "discount": "11%",
     "finalPrice": 132.05,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR04583.jpg?v=1751026024&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -2087,7 +2166,9 @@
     "discount": "40%",
     "finalPrice": 56.94,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhhxTnjILxHdWG91gIJDqkH300hb9WI988mAzuOS2Wja_O3HNmQYYehlmoCyLwuDS8YvY&usqp=CAU",
           
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
@@ -2104,7 +2185,9 @@
     "discount": "23%",
     "finalPrice": 635.88,
     "newArrival": true,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/17april_6162_dd5a5bd0-0396-4d86-90f4-63ff8bafc5ef.jpg?v=1749907093&width=200",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -2120,7 +2203,9 @@
     "discount": "24%",
     "finalPrice": 478.17,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR07840.jpg?v=1746694870&width=200",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -2136,7 +2221,9 @@
     "discount": "29%",
     "finalPrice": 346.92,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_5b444954-f299-48da-8867-c3969b1425c0.jpg?v=1749708209&width=300",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -2152,6 +2239,7 @@
     "discount": "24%",
     "finalPrice": 488.12,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNbYmKE4YAreL4rl35pLC92YvSzfD5RImfXhkTkkDN-Kmdu3X_4dkGV2Fva96OHIkq14&usqp=CAU",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
@@ -2169,6 +2257,7 @@
     "discount": "35%",
     "finalPrice": 540.51,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
@@ -2185,6 +2274,7 @@
     "discount": "23%",
     "finalPrice": 92.17,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
@@ -2201,6 +2291,7 @@
     "discount": "35%",
     "finalPrice": 43.95,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
        "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/SearchINT/Lge/F70273.jpg?im=Resize,width=450",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
@@ -2218,7 +2309,9 @@
     "discount": "16%",
     "finalPrice": 158.84,
     "newArrival": true,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/16july_19834.jpg?v=1749906697&width=200",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -2234,6 +2327,7 @@
     "discount": "32%",
     "finalPrice": 601.77,
     "newArrival": true,
+    "rating":"4.7⭐",
     "images": [
       "https://shopspikesandseamsgreek.com/cdn/shop/files/AlphaSigmaTau_24dd8a68-1fa9-4d79-b4de-79211db9358d.png?v=1698175607&width=1445",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
@@ -2251,7 +2345,9 @@
     "discount": "38%",
     "finalPrice": 51.99,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://campussutra.com/cdn/shop/files/CSMSSRT9693_2_2de2dad8-a707-47a6-88e6-938d26997737.jpg?v=1755684613&width=300",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -2267,7 +2363,9 @@
     "discount": "44%",
     "finalPrice": 351.33,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/11aug_7679-Edit.jpg?v=1749906426&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -2283,45 +2381,17 @@
     "discount": "48%",
     "finalPrice": 72.47,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://blackberrys.com/cdn/shop/files/Beetle_Linen_Solid_Shirt_Salmon-ES014558D3-image1_533x.jpg?v=1752234107",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
     ],
     "description": "Men Shirt 141 - A high-quality shirt for men with great comfort and style."
   },
-  {
-    "id": 142,
-    "name": "Men Dress 142",
-    "category": "men",
-    "type": "dress",
-    "price": 831.94,
-    "discount": "32%",
-    "finalPrice": 565.72,
-    "newArrival": false,
-    "images": [
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
-    ],
-    "description": "Men Dress 142 - A high-quality dress for men with great comfort and style."
-  },
-  {
-    "id": 143,
-    "name": "Men Dress 143",
-    "category": "men",
-    "type": "dress",
-    "price": 608.77,
-    "discount": "38%",
-    "finalPrice": 377.44,
-    "newArrival": true,
-    "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
-    ],
-    "description": "Men Dress 143 - A high-quality dress for men with great comfort and style."
-  },
+  
+
   {
     "id": 144,
     "name": "Women Hoodie 144",
@@ -2331,6 +2401,7 @@
     "discount": "22%",
     "finalPrice": 134.18,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSojyYlHI8PcxY2gLIzNmk7k_B7nQttwiEjw&s",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
@@ -2348,7 +2419,9 @@
     "discount": "19%",
     "finalPrice": 166.25,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_a07210d7-3b1e-4857-a71e-b5f881c4bec1.jpg?v=1751444150&width=300",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -2364,7 +2437,9 @@
     "discount": "31%",
     "finalPrice": 300.24,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://freakins.com/cdn/shop/products/FreakinsMen-02270-min.jpg?v=1749908086&width=200",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -2380,7 +2455,9 @@
     "discount": "12%",
     "finalPrice": 68.9,
     "newArrival": true,
+    "rating":"4.0⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yRrayfcRkzLGrBJSxFRkcgXgUcznHaAE-w&s",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -2396,6 +2473,7 @@
     "discount": "19%",
     "finalPrice": 139.98,
     "newArrival": true,
+    "rating":"4.0⭐",
     "images": [
       "https://blakelyclothing.com/cdn/shop/files/837VWMARLWHITED_800x.jpg?v=1750776380",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
@@ -2404,22 +2482,7 @@
     ],
     "description": "Women Hoodie 148 - A high-quality hoodie for women with great comfort and style."
   },
-  {
-    "id": 149,
-    "name": "Women Dress 149",
-    "category": "women",
-    "type": "dress",
-    "price": 144.97,
-    "discount": "32%",
-    "finalPrice": 98.58,
-    "newArrival": false,
-    "images": [
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 149 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 150,
     "name": "Women Tshirt 150",
@@ -2429,6 +2492,7 @@
     "discount": "10%",
     "finalPrice": 66.1,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
       "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/3_4Ratio/Search/Lge/F61287.jpg?im=Resize,width=450",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
@@ -2446,7 +2510,9 @@
     "discount": "15%",
     "finalPrice": 368.89,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR05982.jpg?v=1749905571&width=200",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -2462,6 +2528,7 @@
     "discount": "35%",
     "finalPrice": 49.16,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
@@ -2478,7 +2545,9 @@
     "discount": "28%",
     "finalPrice": 125.22,
     "newArrival": true,
+    "rating":"4.0⭐",
     "images": [
+      "https://www.impericon.com/cdn/shop/files/marvelcomics_heroes_tops_tshirt_1-mrv001-h47-6-bk_4060103773320_405441-419_nomodel_whitebackground_front_af235c60-d345-4767-9665-0194c75692e9.jpg?v=1743789299",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -2494,7 +2563,9 @@
     "discount": "50%",
     "finalPrice": 50.58,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1yjdApExtKUaMnFlqA66G8YflGkm30sCQw&s",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -2510,7 +2581,9 @@
     "discount": "23%",
     "finalPrice": 169.99,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://veirdo.in/cdn/shop/files/2_6_4f793709-e9dd-44b8-abfe-881c13a93b11.jpg?v=1754543801",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
@@ -2526,7 +2599,9 @@
     "discount": "33%",
     "finalPrice": 253.74,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://blackberrys.com/cdn/shop/files/Olive_Linen_Check_Shirt_Merik-ES014635V1-image1_533x.jpg?v=1750146839",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -2542,6 +2617,7 @@
     "discount": "27%",
     "finalPrice": 527.37,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -2558,6 +2634,7 @@
     "discount": "38%",
     "finalPrice": 127.96,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEPGY0UnX0ntYdVhe15oyFMc4kYjSncIpVAkLeSgWPkb_srZ2S9bMMYhwc2rg_g2IypM&usqp=CAU",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
@@ -2575,7 +2652,9 @@
     "discount": "34%",
     "finalPrice": 69.18,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://nobero.com/cdn/shop/files/WhatsAppImage2024-08-29at12.59.34PM.jpg?v=1724916698&width=533",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -2591,29 +2670,16 @@
     "discount": "24%",
     "finalPrice": 561.4,
     "newArrival": false,
+    "rating":"4.0⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/7_d50647b8-0314-4d6c-9d6d-539e1846f94f.jpg?v=1749537165&width=300",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
     ],
     "description": "Women Shirt 160 - A high-quality shirt for women with great comfort and style."
   },
-  {
-    "id": 161,
-    "name": "Men Dress 161",
-    "category": "men",
-    "type": "dress",
-    "price": 106.43,
-    "discount": "50%",
-    "finalPrice": 53.22,
-    "newArrival": false,
-    "images": [
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
-    ],
-    "description": "Men Dress 161 - A high-quality dress for men with great comfort and style."
-  },
+
   {
     "id": 162,
     "name": "Men Tshirt 162",
@@ -2623,7 +2689,9 @@
     "discount": "49%",
     "finalPrice": 306.36,
     "newArrival": false,
+    "rating":"3.8⭐",
     "images": [
+      "https://assets.target.com.au/transform/202b2443-2b6a-467c-b342-83f05247cada/465_68097578_1-2681F1?io=transform%3Afit%2Cwidth%3A1400%2Cheight%3A1600&quality=90&output=webp",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -2639,7 +2707,9 @@
     "discount": "13%",
     "finalPrice": 95.15,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR01658_fcbf0806-7bd4-42d4-8ea9-35534ace285e.jpg?v=1753857397&width=200",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -2655,6 +2725,7 @@
     "discount": "32%",
     "finalPrice": 273.97,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
@@ -2671,6 +2742,7 @@
     "discount": "36%",
     "finalPrice": 573.14,
     "newArrival": true,
+     "rating":"3.8⭐",
     "images": [
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
@@ -2687,7 +2759,9 @@
     "discount": "18%",
     "finalPrice": 495.85,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://rukminim2.flixcart.com/image/704/844/xif0q/kids-t-shirt/b/e/y/4-5-years-mcm-bl01-marvel-by-miss-chief-original-imahyyjfg5pygmhc.jpeg?q=20&crop=false",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -2703,6 +2777,7 @@
     "discount": "41%",
     "finalPrice": 69.98,
     "newArrival": true,
+     "rating":"3.8⭐",
     "images": [
       "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1733774027-cn57210533.jpg?crop=1.00xw:0.751xh;0,0.145xh&resize=980:*",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
@@ -2720,7 +2795,9 @@
     "discount": "49%",
     "finalPrice": 355.63,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_e66d38cf-1510-4b97-9eec-e9375528eb7b.jpg?v=1749546876&width=300",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -2736,6 +2813,7 @@
     "discount": "35%",
     "finalPrice": 491.45,
     "newArrival": true,
+     "rating":"3.8⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDi6Amzs7q6GOjY1Mu02JucLWzg_9vn4wA0gkImVVoThBSzfXL-WBKs9AWimP62AtWOs&usqp=CAU",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
@@ -2753,7 +2831,9 @@
     "discount": "22%",
     "finalPrice": 86.7,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://nobero.com/cdn/shop/files/elsewhere_a43948ee-74a3-4c6b-bc51-d24a173db69e.jpg?v=1725283233&width=533",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -2769,7 +2849,9 @@
     "discount": "49%",
     "finalPrice": 58.86,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_0387acb4-a4f0-4e21-be70-862e61399c0a.jpg?v=1749704872&width=300",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -2785,7 +2867,9 @@
     "discount": "44%",
     "finalPrice": 85.47,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR06800.jpg?v=1749905568&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -2801,7 +2885,9 @@
     "discount": "46%",
     "finalPrice": 73.97,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/8JULY24_17169-Edit_4aec46f8-78bd-49cd-aab4-49477207c9cd.jpg?v=1749906581&width=200",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -2817,7 +2903,9 @@
     "discount": "19%",
     "finalPrice": 162.45,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://nobero.com/cdn/shop/files/unexplored.jpg?v=1734697084&width=533",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -2833,7 +2921,9 @@
     "discount": "49%",
     "finalPrice": 65.59,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5XiffeLk6754u1cwkl_KtodgctQ0h7wtlNw&s",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -2849,7 +2939,9 @@
     "discount": "34%",
     "finalPrice": 472.35,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIT0fhwtrWW2m5N-Le3NFULMlEJDjZ3ScEg&s",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?fit=crop&w=600&q=80"
@@ -2865,7 +2957,9 @@
     "discount": "14%",
     "finalPrice": 81.08,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://alcissports.com/cdn/shop/products/AAMTEESM00056902_1.jpg?v=1677826937",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -2881,7 +2975,9 @@
     "discount": "20%",
     "finalPrice": 481.58,
     "newArrival": false,
+     "rating":"3.8⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/8JULY24_16731-Edit_c76e19e1-00d1-4102-b908-587a14907b97.jpg?v=1749906613&width=200",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5?fit=crop&w=600&q=80"
@@ -2897,7 +2993,9 @@
     "discount": "13%",
     "finalPrice": 101.29,
     "newArrival": false,
+     "rating":"4.9⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR00026.jpg?v=1749906004&width=200",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=600&q=80"
@@ -2913,7 +3011,9 @@
     "discount": "30%",
     "finalPrice": 330.24,
     "newArrival": false,
+     "rating":"4.7⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_9bbf1452-822b-44a6-b86f-ce551d04021f.jpg?v=1749707900&width=300",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
@@ -2929,29 +3029,16 @@
     "discount": "22%",
     "finalPrice": 157.81,
     "newArrival": true,
+    "rating":"4.7⭐",
     "images": [
+      "https://blackberrys.com/cdn/shop/files/Brown_Solid_Shirt_Solly-ES014561C1-image1_533x.jpg?v=1750146668",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
     ],
     "description": "Men Shirt 181 - A high-quality shirt for men with great comfort and style."
   },
-  {
-    "id": 182,
-    "name": "Men Dress 182",
-    "category": "men",
-    "type": "dress",
-    "price": 320.43,
-    "discount": "42%",
-    "finalPrice": 185.85,
-    "newArrival": true,
-    "images": [
-      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7",
-      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1612423284934-03dc8e5e90c7?fit=crop&w=600&q=80"
-    ],
-    "description": "Men Dress 182 - A high-quality dress for men with great comfort and style."
-  },
+  
   {
     "id": 183,
     "name": "Men Pants 183",
@@ -2961,7 +3048,9 @@
     "discount": "47%",
     "finalPrice": 46.94,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/8JULY24_16946-Edit_03328f30-07f7-4494-b70a-26d1273fd906.jpg?v=1749906590&width=200",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -2977,6 +3066,7 @@
     "discount": "33%",
     "finalPrice": 88.93,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4",
       "https://images.unsplash.com/photo-1612336307429-8e6f7e5a64a4?fit=crop&w=400&q=60",
@@ -2993,6 +3083,7 @@
     "discount": "35%",
     "finalPrice": 150.69,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://us.oneractive.com/cdn/shop/products/OversizedHoodie_Sage_01_400x.jpg?v=1639468382",
       "https://images.unsplash.com/photo-1530845649993-d7ff57c786b5",
@@ -3010,7 +3101,9 @@
     "discount": "41%",
     "finalPrice": 228.13,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://freakins.com/cdn/shop/files/SAR05734.jpg?v=1751457858&width=200",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -3026,7 +3119,9 @@
     "discount": "26%",
     "finalPrice": 184.25,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://hummel.net.in/cdn/shop/files/4_d87d1538-9dcd-44d5-9f7d-ac12adfb935c.png?v=1755503911",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -3042,7 +3137,9 @@
     "discount": "13%",
     "finalPrice": 76.93,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/5_9bbf1452-822b-44a6-b86f-ce551d04021f.jpg?v=1749707900&width=300",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -3058,6 +3155,7 @@
     "discount": "17%",
     "finalPrice": 572.52,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://images.meesho.com/images/products/276747825/wekiy_512.webp?width=512",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
@@ -3075,6 +3173,7 @@
     "discount": "24%",
     "finalPrice": 634.7,
     "newArrival": true,
+    "rating":"4.7⭐",
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1HNSL5tKws_KZxXTmnakxYpZxfOlUkwXNw&s",
       "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
@@ -3092,7 +3191,10 @@
     "discount": "19%",
     "finalPrice": 74.53,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://nobero.com/cdn/shop/files/PerspectiveFront_92b280ee-bed5-42b6-9f11-0ee1b33fed13.jpg?v=1731586489&width=360",
+      "https://nobero.com/cdn/shop/files/the-place_2ffb1433-f960-49a9-8176-184e07698399.jpg?v=1725281525&width=533",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1602810318383-e92a2f2d1f88?fit=crop&w=600&q=80"
@@ -3108,7 +3210,9 @@
     "discount": "32%",
     "finalPrice": 295.36,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/2_46425078-0738-4077-81a6-109e493ce6e7.jpg?v=1749720213&width=300",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -3124,7 +3228,9 @@
     "discount": "20%",
     "finalPrice": 259.85,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://nobero.com/cdn/shop/files/the-place_2ffb1433-f960-49a9-8176-184e07698399.jpg?v=1725281525&width=360",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -3140,6 +3246,7 @@
     "discount": "47%",
     "finalPrice": 126.96,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://wildoneshop.com/cdn/shop/files/652109AA-6C3E-4C8C-BE1C-927C66794C0B_grande.jpg?v=1744143989",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
@@ -3157,29 +3264,16 @@
     "discount": "26%",
     "finalPrice": 182.64,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://madameonline.com/cdn/shop/files/2_eecd33cb-4d75-4535-9f21-400b5bc67b79.jpg?v=1749794166&width=600",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
     ],
     "description": "Women Shirt 195 - A high-quality shirt for women with great comfort and style."
   },
-  {
-    "id": 196,
-    "name": "Women Dress 196",
-    "category": "women",
-    "type": "dress",
-    "price": 748.11,
-    "discount": "35%",
-    "finalPrice": 486.27,
-    "newArrival": false,
-    "images": [
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
-      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
-    ],
-    "description": "Women Dress 196 - A high-quality dress for women with great comfort and style."
-  },
+  
   {
     "id": 197,
     "name": "Women Hoodie 197",
@@ -3189,6 +3283,7 @@
     "discount": "41%",
     "finalPrice": 50.05,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
       "https://redtape.com/cdn/shop/files/RLH0046A_1.jpg?v=1754292385",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
@@ -3206,7 +3301,9 @@
     "discount": "50%",
     "finalPrice": 308.29,
     "newArrival": false,
+    "rating":"4.7⭐",
     "images": [
+      "https://i0.wp.com/www.copycatz.in/wp-content/uploads/2024/05/liverpool-home-2024-25-season-jersey.webp?fit=694%2C682&ssl=1",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?fit=crop&w=600&q=80"
@@ -3223,6 +3320,7 @@
     "finalPrice": 146.47,
     "newArrival": false,
     "images": [
+      "https://shopfootball.in/cdn/shop/files/EnglandVintage1.jpg?v=1717228303&width=2048",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?fit=crop&w=600&q=80"
@@ -3238,11 +3336,30 @@
     "discount": "48%",
     "finalPrice": 99.92,
     "newArrival": false,
+     "rating":"4.3⭐",
+
     "images": [
+      "https://msretro.com/cdn/shop/files/E80604C6-258D-447D-BD01-5765AD76EE0D.jpg?v=1740991759&width=1445",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=400&q=60",
       "https://images.unsplash.com/photo-1520975698519-59c33a6e9e7e?fit=crop&w=600&q=80"
     ],
     "description": "Men Tshirt 200 - A high-quality tshirt for men with great comfort and style."
+  },
+  {
+    "id": 201,
+    "name": "player signed csk jersey",
+    "category": "men",
+    "type": "tshirt",
+    "price": 192.16,
+    "discount": "48%",
+    "finalPrice": 99.92,
+    "newArrival": false,
+    "rating":"4.7⭐",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkfaIAlWYlGvy0Ni5LziYZLpjHjyEeKmKcFw&s"
+  
+],
+ "description": "Men Tshirt 201 - A high-quality tshirt for men with great comfort and style."
   }
 ]

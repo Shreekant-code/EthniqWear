@@ -50,12 +50,16 @@ export const Whislist = () => {
 
           
             <div className="flex gap-2">
-              <button
-                onClick={() => addTocart(product)}
-                className="bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600 text-sm"
-              >
-                Add to Cart
-              </button>
+             <button
+  onClick={() => {
+    addTocart(product);
+    removeFromWishlist(product.id);
+  }}
+  className="bg-blue-500 text-white px-2 py-1 rounded hover:bg-blue-600 text-sm"
+>
+  Add to Cart
+</button>
+
               <button
                 onClick={() => removeFromWishlist(product.id)}
                 className="bg-red-500 text-white px-2 py-1 rounded hover:bg-red-600 text-sm flex items-center"

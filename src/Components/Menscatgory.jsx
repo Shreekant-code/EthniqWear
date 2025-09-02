@@ -24,6 +24,7 @@ export const Menscategory = () => {
               theme === "dark" ? "bg-gray-900" : "bg-white"
             }`}
           >
+           
             <img
               src={cat.img}
               alt={cat.type}
